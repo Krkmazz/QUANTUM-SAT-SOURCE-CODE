@@ -1,0 +1,8 @@
+esp32_senderASYNCV1 kaynak için:
+	V1 kaynak dosyasıdır bazı pdr raporundaki bazı asenkron fonksiyonlar henüz bu dosyada yazılı değildir.
+
+yer istasyonu kodları için:
+	Bu versiyon için grafik ve python entegresi yapılmamıştır.
+	Uyduya mekanik filtre kodu gönderilmesi ve manuel ayrılma buttonları aktif olarak bu versiyonda çalışmaktadır.
+	serialRead.cs içerisinde yer istasyonu için hazırlanan espden gelen verileri usb portundan gelen veriler okunmaktadır
+	telemetryArray.cs içerisinde gelen veriler pdr raporunda anlatıldığı gibi ayrıştırılmaktadır.

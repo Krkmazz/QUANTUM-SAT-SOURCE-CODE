@@ -1,0 +1,318 @@
+C:\Users\Korkmaz\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\Korkmaz\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\Korkmaz\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\Korkmaz\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\CircularProgressBar.dll
+C:\Users\Korkmaz\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WinFormAnimation.dll
+C:\Users\Korkmaz\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\CircularProgressBar.xml
+C:\Users\Korkmaz\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+C:\Users\Korkmaz\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\Korkmaz\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\Korkmaz\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\Korkmaz\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsF.D0056B00.Up2Date
+C:\Users\Korkmaz\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\Korkmaz\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\Korkmaz\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\Korkmaz\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\MaterialSkin.dll
+C:\Users\Korkmaz\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\Guna.UI2.dll
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\CircularProgressBar.dll
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\MaterialSkin.dll
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\WinFormAnimation.dll
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\CircularProgressBar.xml
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\obj\Debug\WindowsF.D0056B00.Up2Date
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\EntityFramework.dll
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\System.Data.SQLite.dll
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\EntityFramework.xml
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\System.Data.SQLite.xml
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Korkmaz\source\repos\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\CircularProgressBar.dll
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\EntityFramework.dll
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\MaterialSkin.dll
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\System.Data.SQLite.dll
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\WinFormAnimation.dll
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\CircularProgressBar.xml
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\EntityFramework.xml
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\System.Data.SQLite.xml
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Korkmaz\OneDrive\Desktop\WindowsFormsApp8\WindowsFormsApp7\obj\Debug\WindowsF.D0056B00.Up2Date
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\CircularProgressBar.dll
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\EntityFramework.dll
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\MaterialSkin.dll
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\System.Data.SQLite.dll
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\WinFormAnimation.dll
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\CircularProgressBar.xml
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\EntityFramework.xml
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\System.Data.SQLite.xml
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\obj\Debug\WindowsF.D0056B00.Up2Date
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\Korkmaz\OneDrive\Desktop\TRY\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\CircularProgressBar.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\EntityFramework.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\MaterialSkin.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\System.Data.SQLite.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\WinFormAnimation.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\CircularProgressBar.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\EntityFramework.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\System.Data.SQLite.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\obj\Debug\WindowsF.D0056B00.Up2Date
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\Korkmaz\OneDrive\Desktop\Yeni klasör\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\CircularProgressBar.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\EntityFramework.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\MaterialSkin.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\System.Data.SQLite.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\WinFormAnimation.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\CircularProgressBar.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\EntityFramework.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\System.Data.SQLite.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\obj\Debug\WindowsF.D0056B00.Up2Date
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\CircularProgressBar.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\EntityFramework.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\MaterialSkin.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\System.Data.SQLite.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\WinFormAnimation.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\CircularProgressBar.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\EntityFramework.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\System.Data.SQLite.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1\WindowsFormsApp7\obj\Debug\WindowsF.D0056B00.Up2Date
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\CircularProgressBar.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\EntityFramework.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\MaterialSkin.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\System.Data.SQLite.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\WinFormAnimation.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\CircularProgressBar.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\EntityFramework.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\System.Data.SQLite.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\obj\Debug\WindowsF.D0056B00.Up2Date
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.1 - Kopya\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\CircularProgressBar.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\MaterialSkin.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\System.Data.SQLite.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\WinFormAnimation.dll
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\CircularProgressBar.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\System.Data.SQLite.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\obj\Debug\WindowsF.D0056B00.Up2Date
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\Korkmaz\OneDrive\Desktop\Quantum gui v1.3.2 - Kopya\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb

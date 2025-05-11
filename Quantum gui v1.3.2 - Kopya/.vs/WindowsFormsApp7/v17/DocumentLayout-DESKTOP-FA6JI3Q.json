@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Korkmaz\\OneDrive\\Desktop\\Quantum gui v1.3.2 - Kopya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8BB0F3-F621-4BA7-8FA8-F7FDC6401092}|WindowsFormsApp7\\WindowsFormsApp7.csproj|c:\\users\\korkmaz\\onedrive\\desktop\\quantum gui v1.3.2 - kopya\\windowsformsapp7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E8BB0F3-F621-4BA7-8FA8-F7FDC6401092}|WindowsFormsApp7\\WindowsFormsApp7.csproj|solutionrelative:windowsformsapp7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8BB0F3-F621-4BA7-8FA8-F7FDC6401092}|WindowsFormsApp7\\WindowsFormsApp7.csproj|C:\\Users\\Korkmaz\\OneDrive\\Desktop\\Quantum gui v1.3.2 - Kopya\\windowsformsapp7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8BB0F3-F621-4BA7-8FA8-F7FDC6401092}|WindowsFormsApp7\\WindowsFormsApp7.csproj|solutionrelative:windowsformsapp7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8BB0F3-F621-4BA7-8FA8-F7FDC6401092}|WindowsFormsApp7\\WindowsFormsApp7.csproj|C:\\Users\\Korkmaz\\OneDrive\\Desktop\\Quantum gui v1.3.2 - Kopya\\windowsformsapp7\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8BB0F3-F621-4BA7-8FA8-F7FDC6401092}|WindowsFormsApp7\\WindowsFormsApp7.csproj|solutionrelative:windowsformsapp7\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8BB0F3-F621-4BA7-8FA8-F7FDC6401092}|WindowsFormsApp7\\WindowsFormsApp7.csproj|C:\\Users\\Korkmaz\\OneDrive\\Desktop\\Quantum gui v1.3.2 - Kopya\\windowsformsapp7\\telemetryarrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8BB0F3-F621-4BA7-8FA8-F7FDC6401092}|WindowsFormsApp7\\WindowsFormsApp7.csproj|solutionrelative:windowsformsapp7\\telemetryarrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8BB0F3-F621-4BA7-8FA8-F7FDC6401092}|WindowsFormsApp7\\WindowsFormsApp7.csproj|C:\\Users\\Korkmaz\\OneDrive\\Desktop\\Quantum gui v1.3.2 - Kopya\\windowsformsapp7\\gps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8BB0F3-F621-4BA7-8FA8-F7FDC6401092}|WindowsFormsApp7\\WindowsFormsApp7.csproj|solutionrelative:windowsformsapp7\\gps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8BB0F3-F621-4BA7-8FA8-F7FDC6401092}|WindowsFormsApp7\\WindowsFormsApp7.csproj|C:\\Users\\Korkmaz\\OneDrive\\Desktop\\Quantum gui v1.3.2 - Kopya\\windowsformsapp7\\serialread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8BB0F3-F621-4BA7-8FA8-F7FDC6401092}|WindowsFormsApp7\\WindowsFormsApp7.csproj|solutionrelative:windowsformsapp7\\serialread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8BB0F3-F621-4BA7-8FA8-F7FDC6401092}|WindowsFormsApp7\\WindowsFormsApp7.csproj|C:\\Users\\Korkmaz\\OneDrive\\Desktop\\Quantum gui v1.3.2 - Kopya\\windowsformsapp7\\rhrh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8BB0F3-F621-4BA7-8FA8-F7FDC6401092}|WindowsFormsApp7\\WindowsFormsApp7.csproj|solutionrelative:windowsformsapp7\\rhrh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8BB0F3-F621-4BA7-8FA8-F7FDC6401092}|WindowsFormsApp7\\WindowsFormsApp7.csproj|C:\\Users\\Korkmaz\\OneDrive\\Desktop\\Quantum gui v1.3.2 - Kopya\\windowsformsapp7\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E8BB0F3-F621-4BA7-8FA8-F7FDC6401092}|WindowsFormsApp7\\WindowsFormsApp7.csproj|solutionrelative:windowsformsapp7\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Korkmaz\\OneDrive\\Desktop\\Quantum gui v1.3.2 - Kopya\\WindowsFormsApp7\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "WindowsFormsApp7\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Korkmaz\\OneDrive\\Desktop\\Quantum gui v1.3.2 - Kopya\\WindowsFormsApp7\\Properties\\Resources.resx",
+              "RelativeToolTip": "WindowsFormsApp7\\Properties\\Resources.resx",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAIoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-12-03T17:56:56.016Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Korkmaz\\OneDrive\\Desktop\\Quantum gui v1.3.2 - Kopya\\WindowsFormsApp7\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp7\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Korkmaz\\OneDrive\\Desktop\\Quantum gui v1.3.2 - Kopya\\WindowsFormsApp7\\Form1.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp7\\Form1.Designer.cs",
+              "ViewState": "AgIAAD8MAAAAAAAAAAAewB4NAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:34:50.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "rhrh.cs",
+              "DocumentMoniker": "C:\\Users\\Korkmaz\\OneDrive\\Desktop\\Quantum gui v1.3.2 - Kopya\\WindowsFormsApp7\\rhrh.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp7\\rhrh.cs",
+              "ToolTip": "C:\\Users\\Korkmaz\\OneDrive\\Desktop\\Quantum gui v1.3.2 - Kopya\\WindowsFormsApp7\\rhrh.cs",
+              "RelativeToolTip": "WindowsFormsApp7\\rhrh.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:46:52.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "serialRead.cs",
+              "DocumentMoniker": "C:\\Users\\Korkmaz\\OneDrive\\Desktop\\Quantum gui v1.3.2 - Kopya\\WindowsFormsApp7\\serialRead.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp7\\serialRead.cs",
+              "ToolTip": "C:\\Users\\Korkmaz\\OneDrive\\Desktop\\Quantum gui v1.3.2 - Kopya\\WindowsFormsApp7\\serialRead.cs",
+              "RelativeToolTip": "WindowsFormsApp7\\serialRead.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAwwIAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T21:14:16.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "telemetryArrays.cs",
+              "DocumentMoniker": "C:\\Users\\Korkmaz\\OneDrive\\Desktop\\Quantum gui v1.3.2 - Kopya\\WindowsFormsApp7\\telemetryArrays.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp7\\telemetryArrays.cs",
+              "ToolTip": "C:\\Users\\Korkmaz\\OneDrive\\Desktop\\Quantum gui v1.3.2 - Kopya\\WindowsFormsApp7\\telemetryArrays.cs",
+              "RelativeToolTip": "WindowsFormsApp7\\telemetryArrays.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:52:52.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "gps.cs",
+              "DocumentMoniker": "C:\\Users\\Korkmaz\\OneDrive\\Desktop\\Quantum gui v1.3.2 - Kopya\\WindowsFormsApp7\\gps.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp7\\gps.cs",
+              "ToolTip": "C:\\Users\\Korkmaz\\OneDrive\\Desktop\\Quantum gui v1.3.2 - Kopya\\WindowsFormsApp7\\gps.cs",
+              "RelativeToolTip": "WindowsFormsApp7\\gps.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:07:15.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Korkmaz\\OneDrive\\Desktop\\Quantum gui v1.3.2 - Kopya\\WindowsFormsApp7\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp7\\Form1.cs",
+              "ToolTip": "C:\\Users\\Korkmaz\\OneDrive\\Desktop\\Quantum gui v1.3.2 - Kopya\\WindowsFormsApp7\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp7\\Form1.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAnwK0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:09:20.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Korkmaz\\OneDrive\\Desktop\\Quantum gui v1.3.2 - Kopya\\WindowsFormsApp7\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp7\\Form1.cs",
+              "ToolTip": "C:\\Users\\Korkmaz\\OneDrive\\Desktop\\Quantum gui v1.3.2 - Kopya\\WindowsFormsApp7\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp7\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:45:20.096Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
